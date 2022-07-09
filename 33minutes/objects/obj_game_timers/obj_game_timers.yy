@@ -35,7 +35,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_game_timer",
+  "name": "obj_game_timers",
   "tags": [],
   "resourceType": "GMObject",
 }

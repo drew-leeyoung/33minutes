@@ -3,7 +3,7 @@
 //ship health?
 
 with(other) {
-	repeat(100) {
+	repeat(irandom_range(5,10)) {
 	    var debris = instance_create_layer(self.x, self.y, "Instances", obj_debris);
 		
 		if( choose(0,1) == 0 ){
