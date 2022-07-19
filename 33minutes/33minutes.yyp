@@ -11,6 +11,7 @@
     {"id":{"name":"spr_item_mod_bay_hng","path":"sprites/spr_item_mod_bay_hng/spr_item_mod_bay_hng.yy",},"order":19,},
     {"id":{"name":"spr_enemy_small","path":"sprites/spr_enemy_small/spr_enemy_small.yy",},"order":4,},
     {"id":{"name":"Spr_CivMindORN1","path":"sprites/Spr_CivMindORN1/Spr_CivMindORN1.yy",},"order":6,},
+    {"id":{"name":"Spr_AutaGunship1","path":"sprites/Spr_AutaGunship1/Spr_AutaGunship1.yy",},"order":1,},
     {"id":{"name":"Spr_CivSteelORN1","path":"sprites/Spr_CivSteelORN1/Spr_CivSteelORN1.yy",},"order":5,},
     {"id":{"name":"spr_enemy_big","path":"sprites/spr_enemy_big/spr_enemy_big.yy",},"order":3,},
     {"id":{"name":"Spr_CivPopORN1","path":"sprites/Spr_CivPopORN1/Spr_CivPopORN1.yy",},"order":0,},
@@ -41,6 +42,7 @@
     {"id":{"name":"obj_inv","path":"objects/obj_inv/obj_inv.yy",},"order":8,},
     {"id":{"name":"spr_ship_proj","path":"sprites/spr_ship_proj/spr_ship_proj.yy",},"order":7,},
     {"id":{"name":"Obj_Jacob","path":"objects/Obj_Jacob/Obj_Jacob.yy",},"order":11,},
+    {"id":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"order":0,},
     {"id":{"name":"Spr_CivPopORN4","path":"sprites/Spr_CivPopORN4/Spr_CivPopORN4.yy",},"order":3,},
     {"id":{"name":"spr_ship_small","path":"sprites/spr_ship_small/spr_ship_small.yy",},"order":8,},
     {"id":{"name":"init_game","path":"scripts/init_game/init_game.yy",},"order":0,},
@@ -79,6 +81,7 @@
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Civilian Ship Chunks.yy","order":23,"resourceVersion":"1.0","name":"Civilian Ship Chunks","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Enemies.yy","order":24,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
