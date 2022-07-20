@@ -25,7 +25,6 @@
   "gridY": 1,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"90ca9319-98c6-47f7-9bb3-73c8beaf3721","path":"sprites/Spr_CivHeartORN1/Spr_CivHeartORN1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"90ca9319-98c6-47f7-9bb3-73c8beaf3721","path":"sprites/Spr_CivHeartORN1/Spr_CivHeartORN1.yy",},"LayerId":{"name":"061cd607-0f86-41d1-bb3c-616430be0033","path":"sprites/Spr_CivHeartORN1/Spr_CivHeartORN1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"90ca9319-98c6-47f7-9bb3-73c8beaf3721","path":"sprites/Spr_CivHeartORN1/Spr_CivHeartORN1.yy",},"LayerId":{"name":"e2a04809-eb70-4b67-a2bf-70f90c4f4470","path":"sprites/Spr_CivHeartORN1/Spr_CivHeartORN1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_CivHeartORN1","path":"sprites/Spr_CivHeartORN1/Spr_CivHeartORN1.yy",},"resourceVersion":"1.0","name":"90ca9319-98c6-47f7-9bb3-73c8beaf3721","tags":[],"resourceType":"GMSpriteFrame",},
   ],
@@ -69,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"e2a04809-eb70-4b67-a2bf-70f90c4f4470","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Civilian Ship Chunks",
-    "path": "folders/Sprites/Civilian Ship Chunks.yy",
+    "name": "Orange Brick Series",
+    "path": "folders/Sprites/Civilian Ship Chunks/Orange Brick Series.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_CivHeartORN1",

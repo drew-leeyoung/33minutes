@@ -53,7 +53,7 @@
     "spriteId": {"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 4.0,
+    "playbackSpeed": 0.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

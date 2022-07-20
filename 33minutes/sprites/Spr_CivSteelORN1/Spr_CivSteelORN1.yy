@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"796c9969-2f0f-4317-b695-e8c2058b447f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Civilian Ship Chunks",
-    "path": "folders/Sprites/Civilian Ship Chunks.yy",
+    "name": "Orange Brick Series",
+    "path": "folders/Sprites/Civilian Ship Chunks/Orange Brick Series.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_CivSteelORN1",
