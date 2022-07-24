@@ -24,14 +24,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"LayerId":{"name":"f4fd2a52-685d-430d-8d3c-8c7d9b8e861a","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"LayerId":{"name":"97d044fb-02af-48b8-b900-526aed8fc07c","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"LayerId":{"name":"4983ed99-b475-44be-95f4-b19cba551786","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_CivPopBLU3","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"resourceVersion":"1.0","name":"36ca15de-97f2-45db-b02c-30be7eddd582","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"LayerId":{"name":"f4fd2a52-685d-430d-8d3c-8c7d9b8e861a","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"LayerId":{"name":"97d044fb-02af-48b8-b900-526aed8fc07c","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"LayerId":{"name":"4983ed99-b475-44be-95f4-b19cba551786","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_CivCargoBLU1","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"resourceVersion":"1.0","name":"36ca15de-97f2-45db-b02c-30be7eddd582","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Spr_CivPopBLU3","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},
+    "spriteId": {"name":"Spr_CivCargoBLU1","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -43,7 +43,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6a643220-cee3-4f13-92c7-e1be704e03db","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ca8de613-cd8a-44d5-9108-7280a3ef024c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -60,9 +60,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Spr_CivPopBLU3","path":"sprites/Spr_CivPopBLU3/Spr_CivPopBLU3.yy",},
+    "parent": {"name":"Spr_CivCargoBLU1","path":"sprites/Spr_CivCargoBLU1/Spr_CivCargoBLU1.yy",},
     "resourceVersion": "1.3",
-    "name": "Spr_CivPopBLU3",
+    "name": "Spr_CivCargoBLU1",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -76,7 +76,7 @@
     "path": "folders/Sprites/Civilian Ship Chunks/Blue Disk Series.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Spr_CivPopBLU3",
+  "name": "Spr_CivCargoBLU1",
   "tags": [],
   "resourceType": "GMSprite",
 }
