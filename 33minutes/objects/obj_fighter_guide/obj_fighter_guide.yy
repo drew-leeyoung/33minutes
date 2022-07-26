@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_AutaFighter",
-    "path": "sprites/Spr_AutaFighter/Spr_AutaFighter.yy",
+    "name": "Sprite49",
+    "path": "sprites/Sprite49/Sprite49.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_enemy_fighter","path":"objects/obj_enemy_fighter/obj_enemy_fighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_enemy_fighter","path":"objects/obj_enemy_fighter/obj_enemy_fighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_fighter_guide","path":"objects/obj_fighter_guide/obj_fighter_guide.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_fighter_guide","path":"objects/obj_fighter_guide/obj_fighter_guide.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Squad Behavior Test.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_enemy_fighter",
+  "name": "obj_fighter_guide",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -5,4 +5,3 @@
 //This would also mean that only leader craft are tracking targets and setting courses.
 //the wingmen are just following formation and shooting at anything that ends 
 //up close enough and in front of them. 
-squadrank=0

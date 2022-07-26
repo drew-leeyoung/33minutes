@@ -1,3 +1,1 @@
-if(squadrank=0){
-	target = instance_nearest(self.x,self.y,obj_ship_big)
-}
+image_angle = point_direction(self.x,self.y, myguide.x,myguide.y)
