@@ -6,15 +6,18 @@
 //the wingmen are just following formation and shooting at anything that ends 
 //up close enough and in front of them. 
 squadrank=0
-
+squadnumber=5
+show_debug_message("made a guider")
+var wingman
 if(squadrank==0){
-	squadnumber = 5
+	show_debug_message("making a wingman")
 	while(squadnumber>=0){
-	var wingman = instance_create_depth(x+(squadnumber*5),y+(squadnumber*5),1000,obj_fighter_guide,
-	{
-		squadrank : squadnumber,
-		target : instance_id
-	});
+	show_debug_message("making wingman #" + string(squadnumber))
+	wingman = instance_create_depth(x+(squadnumber*5),y+(squadnumber*5),1000,obj_fighter_guide)
+	with(wingman){
+	squadrank = other.squadnumber
+	}	
 	squadnumber-=1
+	show_debug_message("Squadsize = " + string(squadnumber))
 	}
 }
