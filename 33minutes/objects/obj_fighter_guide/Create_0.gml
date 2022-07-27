@@ -7,17 +7,5 @@
 //up close enough and in front of them. 
 squadrank=0
 squadnumber=5
-show_debug_message("made a guider")
+myid=instance_id(self)
 var wingman
-if(squadrank==0){
-	show_debug_message("making a wingman")
-	while(squadnumber>=0){
-	show_debug_message("making wingman #" + string(squadnumber))
-	wingman = instance_create_depth(x+(squadnumber*5),y+(squadnumber*5),1000,obj_fighter_guide)
-	with(wingman){
-	squadrank = other.squadnumber
-	}	
-	squadnumber-=1
-	show_debug_message("Squadsize = " + string(squadnumber))
-	}
-}

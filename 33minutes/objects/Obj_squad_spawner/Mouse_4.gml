@@ -1,2 +1,2 @@
-instance_create_depth(x+20,y,1000,obj_fighter_guide)
+instance_create_layer(self.x+200,self.y,"Instances",obj_fighter_guide)
 
