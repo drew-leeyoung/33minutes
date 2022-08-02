@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_enemy_big",
-    "path": "sprites/spr_enemy_big/spr_enemy_big.yy",
+    "name": "Spr_AutaFighter",
+    "path": "sprites/Spr_AutaFighter/Spr_AutaFighter.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,11 +22,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -35,7 +32,7 @@
     "path": "folders/Objects/Squad Behavior Test.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_squad_spawner",
+  "name": "obj_fighter_arc_ctl",
   "tags": [],
   "resourceType": "GMObject",
 }
