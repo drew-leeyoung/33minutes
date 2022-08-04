@@ -71,7 +71,7 @@
     {"id":{"name":"Obj_Jacob","path":"objects/Obj_Jacob/Obj_Jacob.yy",},"order":11,},
     {"id":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"order":0,},
     {"id":{"name":"Spr_HornetStern","path":"sprites/Spr_HornetStern/Spr_HornetStern.yy",},"order":0,},
-    {"id":{"name":"obj_fighter_arc_ctl","path":"objects/obj_fighter_arc_ctl/obj_fighter_arc_ctl.yy",},"order":4,},
+    {"id":{"name":"obj_enemy_fighter","path":"objects/obj_enemy_fighter/obj_enemy_fighter.yy",},"order":4,},
     {"id":{"name":"Spr_CivPopORN4","path":"sprites/Spr_CivPopORN4/Spr_CivPopORN4.yy",},"order":10,},
     {"id":{"name":"spr_ship_small","path":"sprites/spr_ship_small/spr_ship_small.yy",},"order":6,},
     {"id":{"name":"init_game","path":"scripts/init_game/init_game.yy",},"order":0,},

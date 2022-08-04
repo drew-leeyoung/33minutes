@@ -32,7 +32,7 @@
     "path": "folders/Objects/Squad Behavior Test.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_fighter_arc_ctl",
+  "name": "obj_enemy_fighter",
   "tags": [],
   "resourceType": "GMObject",
 }

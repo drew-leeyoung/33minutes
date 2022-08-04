@@ -10,7 +10,16 @@
 
 var left = random_range(135,225);
 var right = random_range(315,405);
-spawnAngle = choose(left,right);
-direction = spawnAngle;
+direction = choose(left,right);
 speed = global.squadFighterSpeed; //Squad members should move towards fighter guide but never catch up
-fighterTurnSpeed = 0.06;
+fighterTurnSpeed = global.squadFighterTurnSpeed;
+maxDistanceFromLeader = 200; //cannot be less than the formation offset
+isLeader = false;
+isAlive = true;
+leader = noone;
+target = noone;
+targetX = noone;
+targetY = noone;
+guide = noone;
+xOffset = 0;
+yOffset = 0;

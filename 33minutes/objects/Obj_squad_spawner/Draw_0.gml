@@ -7,4 +7,4 @@ image_blend = make_colour_rgb(255, 255, 255);
 }
 
 draw_text(x+300,y+300,"total fighters: " + string(global.fighters))
-draw_text(x+300,y+400,"total guides: " + string(global.leaders))
+draw_text(x+300,y+400,"total leaders: " + string(global.leaders))
