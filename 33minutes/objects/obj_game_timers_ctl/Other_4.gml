@@ -6,21 +6,11 @@
 
 
 global.timer = 13; //33minutes in seconds 33m*60s  = 1980
-global.nextWaveTimer = 10; //spawn next wave in {nextWaveTimer} seconds. 10seconds for fast testing
+global.nextWaveTimer = 11; //spawn next wave in {nextWaveTimer} seconds. 10seconds for fast testing; round up due to timer format
 global.enemySmallWakeup = 5; //number of seconds until spawned enemies wake up and track
-
+global.cooldownFlashTimer = 4; //
 
 //start timers
 //global enemy arrival
 alarm[0] = global.timer * room_speed;
-//start waves of enemies
-alarm[1] = (global.nextWaveTimer + 3) * room_speed; //actually set to 13 seconds for grace period
-//end timers
-
-
-
-
-
-
-//spawn player
-instance_create_layer(room_width/2, room_height * .80, "Instances", obj_ship_big);
+alarm[1] = global.timer * room_speed; //synchronize with enemy arrival

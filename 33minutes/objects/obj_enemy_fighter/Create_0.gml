@@ -17,6 +17,7 @@ maxDistanceFromLeader = 200; //cannot be less than the formation offset
 isLeader = false;
 isAlive = true;
 leader = noone;
+squadPos = noone; //u nique position in the squad, used as an indexer for wingmen[]
 target = noone;
 targetX = noone;
 targetY = noone;

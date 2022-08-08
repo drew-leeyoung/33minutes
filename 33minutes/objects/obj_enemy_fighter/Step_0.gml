@@ -1,15 +1,19 @@
 /// @description move at an arc to eventually point at target
 
-if(isAlive == false && guide == noone) { //marked for death
+if(isAlive == false) { //marked for death
 	instance_destroy();
 }
 
+//angular movement / rotation
 image_angle = direction; //always move where it is pointing
-
 //direction will be an arc towards the parent obj_fighter_guide
 var _dir = point_direction(x, y, targetX, targetY);
 var _diff = angle_difference(_dir, direction);
 direction += _diff * fighterTurnSpeed;
+
+//update speed
+if(isLeader){speed = global.squadLeaderSpeed;}
+else {speed = global.squadFighterSpeed;}
 
 if(!isLeader){ //this keeps wingmen leashed, they wont get left behind
 	if(distance_to_object(leader) >= maxDistanceFromLeader){

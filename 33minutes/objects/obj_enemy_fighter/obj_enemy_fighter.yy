@@ -24,12 +24,13 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ship_big","path":"objects/obj_ship_big/obj_ship_big.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Squad Behavior Test",
-    "path": "folders/Objects/Squad Behavior Test.yy",
+    "name": "_Enemy",
+    "path": "folders/Objects/_Enemy.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_enemy_fighter",

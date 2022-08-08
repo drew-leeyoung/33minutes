@@ -3,7 +3,7 @@
 priority = 0;
 topSpeed = 8;
 
-if(instance_exists(obj_enemy_small)){
+if(instance_exists(obj_enemy_fighter)){
 	image_angle = 90;
 	direction = random_range(80,100);
 	speed = 2;

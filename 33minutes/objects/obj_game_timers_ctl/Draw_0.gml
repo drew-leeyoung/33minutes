@@ -29,16 +29,16 @@ if(alarm[0] > 0) {
 //drawn alarm[1]
 draw_set_halign(fa_left);
 draw_set_valign(fa_top)
-if(formatAlarm1 < 11 && formatAlarm1 >= 0){ // <11 to show countdown starting at 10seconds
+if(formatAlarm1 < 11 && isNextWaveCountingDown){ // <11 to show countdown starting at 10seconds
 	//show countdown
 	draw_set_alpha(1);
 	draw_text_transformed(20, 20, "NEXT WAVE IN: " + string(formatAlarm1), textScale, textScale, textAngle);
-} else if(formatAlarm1 < 0){
+} else if(isWaveIncoming){
 	//flash that new wave is incoming
 	draw_set_alpha(timerAlpha); //parameter must be {timerAlpha} for flashing, see Step
 	draw_text_transformed(20, 20, "ENEMIES INCOMING", textScale, textScale, textAngle);
 } else {
-	//default message no countdown
+	//default message no countdown, booleans are false
 	draw_set_alpha(1);
-	draw_text_transformed(20, 20, "NEXT WAVE IN: ", textScale, textScale, textAngle);
+	draw_text_transformed(20, 20, "NOTHING TO REPORT ", textScale, textScale, textAngle);
 }

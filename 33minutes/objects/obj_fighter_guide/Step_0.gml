@@ -9,15 +9,15 @@ if(guideTarget == noone) {
 if(hasLeader == false && squadSizeCurrent <= 0) { //the squad is empty; create a leader
 	if(squadPos > 0) { //the squad has all been eliminated
 		//destroy the guide
+		global.counterSquads--;
 		instance_destroy();
 		exit;
 	}
-	global.leaders++;
 	//squad leader will tail the guide, following at a close distance
 	var squadLeader = instance_create_layer(x,y,"Instances",obj_enemy_fighter);
 	leaderInstance = squadLeader; //fighter_guide will always know its leader's Instance
 	hasLeader = true;
-	squadLeader.target = self;
+	squadLeader.target = guideTarget;
 	squadLeader.targetX = x; //coordinates of the guide
 	squadLeader.targetY = y;
 	squadLeader.guide = self; //the leader will always know its guide's instance
@@ -26,7 +26,8 @@ if(hasLeader == false && squadSizeCurrent <= 0) { //the squad is empty; create a
 	squadLeader.direction = irandom_range(0,25);
 	squadLeader.isLeader = true;
 	squadSizeCurrent++;
-} else if(hasLeader == false && squadSizeCurrent > 0) { //the squad lost its leader
+	global.counterFighters++;
+} else if(hasLeader == false && squadPos == squadSize) { //the squad exists and lost its leader
 	var i = 0;
 	while(hasLeader == false){
 		if(wingmen[i] != noone){
@@ -36,7 +37,7 @@ if(hasLeader == false && squadSizeCurrent <= 0) { //the squad is empty; create a
 		
 		//give new leader his attributes
 		//leaderInstance = newSquadLeader;
-		leaderInstance.target = self;
+		leaderInstance.target = guideTarget;
 		leaderInstance.targetX = x;
 		leaderInstance.targetY = y;
 		leaderInstance.guide = self;
@@ -74,6 +75,7 @@ while(hasLeader == true && squadPos < squadSize) { //squad has a leader but no w
 	offsetY = offsetY + (offsetY/10);
 	var wingman = instance_create_layer(leaderInstance.x+formationOffsetX,leaderInstance.y+formationOffsetY,"Instances",obj_enemy_fighter)
 	wingman.leader = leaderInstance; // follow the leader, not the guide
+	wingman.squadPos = squadPos; //this way the wingman can remove himself from wingmen[] when killed
 	wingman.target = leaderInstance;
 	wingman.targetX = wingman.leader.x;
 	wingman.targetY = wingman.leader.y;
@@ -83,28 +85,11 @@ while(hasLeader == true && squadPos < squadSize) { //squad has a leader but no w
 	wingmen[squadPos] = wingman;
 	squadPos++
 	squadSizeCurrent++;
-	global.fighters++;
+	global.counterFighters++;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //move
-move_towards_point(guideTarget.x, guideTarget.y, global.squadLeaderSpeed);
-x = mouse_x;
-y = mouse_y
+move_towards_point(guideTarget.x, guideTarget.y, global.squadGuideSpeed);
+
+//x = mouse_x;
+//y = mouse_y;
