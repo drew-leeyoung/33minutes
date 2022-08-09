@@ -44,7 +44,7 @@
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"89345be6-109a-4813-82d9-a5482b6708f5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"89bb0f34-6222-423d-b9b6-24444c2283cd","path":"sprites/Spr_AutaGunship1/Spr_AutaGunship1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,7 +61,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_AutaGunship1","path":"sprites/Spr_AutaGunship1/Spr_AutaGunship1.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_AutaGunship1",
     "tags": [],
     "resourceType": "GMSequence",
@@ -71,6 +71,7 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Hangar","resourceVersion":"1.0","name":"f80bb2c1-6773-4865-840a-538f531930b2","tags":[],"resourceType":"GMImageLayer",},
     {"visible":false,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Enemies",
     "path": "folders/Sprites/Enemies.yy",
