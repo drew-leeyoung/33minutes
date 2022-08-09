@@ -25,9 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"LayerId":{"name":"c2eddff3-165c-4f22-b714-67c3b73d7395","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"LayerId":{"name":"ac14d5f1-7841-4e3b-8e75-e916d5063c8a","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"LayerId":{"name":"4f1aa177-b897-4a22-a1b5-08dbc832583a","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"LayerId":{"name":"ac14d5f1-7841-4e3b-8e75-e916d5063c8a","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_CivPopGEN3","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"resourceVersion":"1.0","name":"36ca15de-97f2-45db-b02c-30be7eddd582","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -44,7 +43,7 @@
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3f5f31ab-fec1-4a81-9aca-6d2393b16f99","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"36ca15de-97f2-45db-b02c-30be7eddd582","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,7 +60,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_CivPopGEN3","path":"sprites/Spr_CivPopGEN3/Spr_CivPopGEN3.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_CivPopGEN3",
     "tags": [],
     "resourceType": "GMSequence",
@@ -70,6 +69,7 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 2","resourceVersion":"1.0","name":"4f1aa177-b897-4a22-a1b5-08dbc832583a","tags":[],"resourceType":"GMImageLayer",},
     {"visible":false,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"ac14d5f1-7841-4e3b-8e75-e916d5063c8a","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Generic Series",
     "path": "folders/Sprites/Civilian Ship Chunks/Generic Series.yy",

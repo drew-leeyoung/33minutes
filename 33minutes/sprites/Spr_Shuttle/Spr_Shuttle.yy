@@ -26,7 +26,6 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"904ec011-fd46-48c9-9a91-0866ff0431e6","path":"sprites/Spr_Shuttle/Spr_Shuttle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"904ec011-fd46-48c9-9a91-0866ff0431e6","path":"sprites/Spr_Shuttle/Spr_Shuttle.yy",},"LayerId":{"name":"198e9307-8300-4ea2-bef9-bc6641fb4963","path":"sprites/Spr_Shuttle/Spr_Shuttle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"904ec011-fd46-48c9-9a91-0866ff0431e6","path":"sprites/Spr_Shuttle/Spr_Shuttle.yy",},"LayerId":{"name":"49f9bec8-7b5d-4e2c-8420-ec8cf6e14ded","path":"sprites/Spr_Shuttle/Spr_Shuttle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_Shuttle","path":"sprites/Spr_Shuttle/Spr_Shuttle.yy",},"resourceVersion":"1.0","name":"904ec011-fd46-48c9-9a91-0866ff0431e6","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -43,7 +42,7 @@
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"d0ae41af-a242-4a7f-acfb-3aeac8bbdc78","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"904ec011-fd46-48c9-9a91-0866ff0431e6","path":"sprites/Spr_Shuttle/Spr_Shuttle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -60,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_Shuttle","path":"sprites/Spr_Shuttle/Spr_Shuttle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_Shuttle",
     "tags": [],
     "resourceType": "GMSequence",
@@ -68,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"198e9307-8300-4ea2-bef9-bc6641fb4963","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
