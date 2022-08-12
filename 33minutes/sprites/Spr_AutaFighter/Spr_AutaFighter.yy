@@ -26,35 +26,27 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"89bb0f34-6222-423d-b9b6-24444c2283cd","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"89bb0f34-6222-423d-b9b6-24444c2283cd","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"89bb0f34-6222-423d-b9b6-24444c2283cd","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"fc0b45fa-ba42-4be0-a54b-5d6b88fe4c27","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"89bb0f34-6222-423d-b9b6-24444c2283cd","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"23c71b42-915b-4695-a133-d0426a2bea0b","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"23c71b42-915b-4695-a133-d0426a2bea0b","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"23c71b42-915b-4695-a133-d0426a2bea0b","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"fc0b45fa-ba42-4be0-a54b-5d6b88fe4c27","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"23c71b42-915b-4695-a133-d0426a2bea0b","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"03f75253-f018-4e7a-8218-d7d52c243e56","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"03f75253-f018-4e7a-8218-d7d52c243e56","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"03f75253-f018-4e7a-8218-d7d52c243e56","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"fc0b45fa-ba42-4be0-a54b-5d6b88fe4c27","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"03f75253-f018-4e7a-8218-d7d52c243e56","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"2b4ff003-4484-43b3-8b3b-28fd934a2a46","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"2b4ff003-4484-43b3-8b3b-28fd934a2a46","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"2b4ff003-4484-43b3-8b3b-28fd934a2a46","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"fc0b45fa-ba42-4be0-a54b-5d6b88fe4c27","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"2b4ff003-4484-43b3-8b3b-28fd934a2a46","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"79cfa4db-a3f3-442c-8f2a-95eddd395aa5","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"79cfa4db-a3f3-442c-8f2a-95eddd395aa5","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"79cfa4db-a3f3-442c-8f2a-95eddd395aa5","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"fc0b45fa-ba42-4be0-a54b-5d6b88fe4c27","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"79cfa4db-a3f3-442c-8f2a-95eddd395aa5","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"91097d72-d293-4f6a-a1c5-bcd1dd75eea5","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"91097d72-d293-4f6a-a1c5-bcd1dd75eea5","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"91097d72-d293-4f6a-a1c5-bcd1dd75eea5","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"fc0b45fa-ba42-4be0-a54b-5d6b88fe4c27","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"91097d72-d293-4f6a-a1c5-bcd1dd75eea5","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"bb80813f-6699-4327-92f3-29b4418083b7","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"bb80813f-6699-4327-92f3-29b4418083b7","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"bb80813f-6699-4327-92f3-29b4418083b7","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"fc0b45fa-ba42-4be0-a54b-5d6b88fe4c27","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"bb80813f-6699-4327-92f3-29b4418083b7","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"99f002d5-7ebd-4aa3-8e48-6fdbd47f98c2","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"99f002d5-7ebd-4aa3-8e48-6fdbd47f98c2","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"99f002d5-7ebd-4aa3-8e48-6fdbd47f98c2","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"LayerId":{"name":"fc0b45fa-ba42-4be0-a54b-5d6b88fe4c27","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","name":"99f002d5-7ebd-4aa3-8e48-6fdbd47f98c2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -78,7 +70,7 @@
             {"id":"523dd163-6319-41ff-8d7f-8a9058d0a7b3","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"91097d72-d293-4f6a-a1c5-bcd1dd75eea5","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d50c4581-60b4-4ae0-a9db-2d2273d0ebd4","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bb80813f-6699-4327-92f3-29b4418083b7","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5afe1f48-aa13-4fe0-922c-2c7450165677","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"99f002d5-7ebd-4aa3-8e48-6fdbd47f98c2","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -95,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_AutaFighter","path":"sprites/Spr_AutaFighter/Spr_AutaFighter.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "Spr_AutaFighter",
     "tags": [],
     "resourceType": "GMSequence",
@@ -103,7 +95,6 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ae89d4fd-136a-4a37-8338-c2baf98446b3","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": null,
   "parent": {
     "name": "Enemies",
     "path": "folders/Sprites/Enemies.yy",
