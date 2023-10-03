@@ -1,0 +1,14 @@
+Incoming Message:
+Type: Narrow band broadcast
+Encryption: Secure
+From: Navy Headquarters via Fort Sonnoheim Relay
+Sent: 04:33 08/13/44
+Recieved: 14:16 08/13/44  
+
+::Message Begins::
+!!Alert!!
+Generalized attack in progress.
+Execute rapid reaction protocol.
+Expect further instructions.
+This is not a drill.
+::Message End::

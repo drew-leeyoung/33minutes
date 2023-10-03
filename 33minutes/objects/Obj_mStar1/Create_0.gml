@@ -1,0 +1,1 @@
+starcolor = make_color_hsv(random(400),random(50),255)
